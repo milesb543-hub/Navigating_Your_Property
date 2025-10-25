@@ -1,0 +1,22 @@
+_pychache_/
+*.py[cod]
+
+# virt envirs
+venv/
+.env/
+
+# log/data
+*.log
+*.csv
+*.dat
+
+#os
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# temp files
+*.tmp
