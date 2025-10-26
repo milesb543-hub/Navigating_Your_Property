@@ -1,0 +1,5 @@
+aio-ld2410==1.0.2
+construct==2.10.70
+dacite==1.9.2
+pyserial==3.5
+pyserial-asyncio-fast==0.16
